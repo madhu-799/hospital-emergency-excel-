@@ -32,3 +32,7 @@ this dashboard will help stakeholders monitor,analyze ,and make better desicions
  **4) gender analysis :-** display the no of patients by gender
  
    **5) department referrals :-** check which departments patients are referred to the most 
+
+
+link to open the project in excel ,click the clink ---**https://1drv.ms/x/c/2fc4458861a7b6f7/EQa-9n-yDJZAq0p2DD1RB-IBSTyhSuccCLMn2xUs6pIAYw?e=DBSdFE**
+   
