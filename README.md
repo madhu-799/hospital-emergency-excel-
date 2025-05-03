@@ -28,7 +28,11 @@ this dashboard will help stakeholders monitor,analyze ,and make better desicions
  ## charts to create :-
  
    **1) patient admission status** :- show how many patients wew admitted vs not admitted
+   
    **2) patient age distribution:-** group patients by age
+   
   **3) timeliness:-** measure the percentage of patients seen within 30 minutes
+  
  **4) gender analysis :-** display the no of patients by gender
+ 
    **5) department referrals :-** check which departments patients are referred to the most 
