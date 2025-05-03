@@ -12,7 +12,7 @@ this dashboard will help stakeholders monitor,analyze ,and make better desicions
 **1) number of patients :-**
    
    count the total no of patients visiting the Emergency room each day , 
-   show a daily trends with an area sparkline to spot patterns like busy days or         seasonal trends
+   show a daily trends with an area sparkline to spot patterns like busy days or seasonal trends
 
 **2) average wait time :-**
 
